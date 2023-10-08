@@ -1,0 +1,52 @@
+body{
+	/* background-color: black; */
+	background-image: url(/wam3.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.top{
+	/* font-family: 'Pixelify Sans', cursive; */
+	font-family: 'Young Serif', serif;
+	background-color: cadetblue;
+	
+	color: white;
+
+}
+
+
+
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+	width: 570px;
+	height: 560px;
+	
+}
+
+.finalscore{
+	display: inline-block;
+	font-family: 'Young Serif', Serif;
+	font-size: 60px;
+	position: absolute;
+	top: 45%;
+	left: 35%;
+	/* background-color: black; */
+	background-color: white;
+	color: black;
+	z-index: 100;
+}
+
+.square {
+	height: 180px;
+	width: 180px;
+	border: solid rgb(237, 239, 234) 5px;
+}
+
+.mole {
+	background-image: url("/pngwing.com.png");
+	background-size: cover;
+}
+
+
+
