@@ -9,7 +9,7 @@ let score = document.querySelector('#score')
 
 let result = 0
 let hitPosition
-let currentTime1 = 30
+let currentTime1 = 60
 let timerId = null
 
 function audio1(){
